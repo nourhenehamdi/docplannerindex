@@ -1,0 +1,204 @@
+body{font-family: sans-serif;}
+
+.navbar{ display: flex;justify-content: space-between;position: sticky; background: white;}
+.navbar { margin: 20px 0;}
+.doc { display: inline; margin-left: 10px;}
+a{ color: #00b39b 
+    ;}
+    a{text-decoration: none;}
+    .introduction{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 30px;}
+ .introduction-title{
+     color: #00b390
+ }
+ .introduction-text{
+     display: flex;
+     justify-content: space-between;
+ }
+ .a{width: 48%;
+
+ }
+ .b{
+     width: 48%;
+ }
+ .services {
+    display: flex;
+    justify-content: space-between;
+}
+.service-card-patient {
+    width: 28%;
+    padding: 20px ;
+    background-color: #00b39b;
+    border-radius: 10px ;
+    color: white;
+
+}
+.service-card-doctor {
+    width: 28%;
+    padding: 20px ;
+    background-color: #3d83df;
+    border-radius: 10px ;
+    color: white;
+
+}
+.service-card-clinics {
+    width: 28%;
+    padding: 20px ;
+    background-color: #1b2734;
+    border-radius: 10px ;
+    color: white;
+
+}
+.select-button {
+    background-color: white;
+    padding: 5px 5px ;
+    border-radius: 5px ;
+    border: white;}
+
+.lins {
+    display: flex;
+    justify-content: space-between ;
+    padding-top: 50px ;
+    padding-bottom: 50px;
+
+}
+
+.global {
+    color: #00b39b;
+    width: 35%;
+    text-align: center;
+
+}
+
+
+
+
+.records {
+    display: flex;
+    background-color: #dcf7f6;
+    justify-content:space-between;
+}
+    .textt {
+        padding-left: 120px;
+        padding-top: 30px;
+    }
+    .left {
+        width: 40%;
+    }
+    .right {
+        width: 50%;
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 0px ;
+    }
+    .leader {
+        width: 68%;
+        padding: 20px ;
+        background-color:white;
+        border-radius: 10px ;
+        color: #00b39b;
+        margin: 41px;
+        text-align: center;
+    }
+    .million {
+        width: 68%;
+        padding: 20px ;
+        background-color:white;
+        border-radius: 10px ;
+        color: #00b39b;
+        margin: 41px;
+        text-align: center;
+    }
+    .acti {
+        width: 75%;
+        padding: 20px ;
+        background-color:white;
+        border-radius: 10px ;
+        color: #00b39b;
+        margin: 41px;
+        text-align: center;
+    }
+    .pat {
+        width: 75%;
+        padding: 20px ;
+        background-color:white;
+        border-radius: 10px ;
+        color: #00b39b;
+        margin: 41px;
+        text-align: center;
+    }
+    .knw {
+        margin-right: 150px ;
+    }
+    .big {
+        color: #00b39b;
+        text-align: center;
+    }
+    .par {
+        text-align: center;
+    }
+    .easy {
+        text-align: center;
+        padding-right: 30%;
+        padding-left: 30%;
+        padding-top: 40px;
+    
+    }
+    .t {
+        color: #00b39b;
+        padding: 45px;
+    
+    }
+    .button {
+        display: inline-block;
+        vertical-align: middle;
+        position: relative;
+        outline: 0;
+        border: 0;
+        border-radius: 4px;
+        padding: 1.1666666667em 1.5em;
+        background: #3d83df;
+        font-family: Roboto,Arial,sans-serif;
+        line-height: 1em;
+        color: #fff;
+        font-weight: 700;
+        letter-spacing: .04em;
+        font-size: .75rem;
+        text-align: center;
+        text-decoration: none!important;
+        text-transform: uppercase;
+    }
+    
+      .active {
+        border: 1px solid rgba(0,0,0,.03);
+        border-radius: 6px;
+        overflow: hidden;
+        max-width: 311px;
+        position: relative;
+        display: block;
+        color: #747474;
+        text-align: center;
+        width: 75%;
+        padding: 20px ;
+        border-radius: 10px ;
+        margin: 41px;
+      }
+      .row {
+          display: flex;
+      }
+      .al{text-align: center;}
+      
+      
+      .last {
+          text-align: center;
+          padding: 20px;
+      }
+      .ll {
+          text-align: center;
+          padding: 50px ;
+      }
+    
+
